@@ -1,0 +1,4 @@
+interface:
+  display_name: "SOP Workflow Builder"
+  short_description: "Design staged workflow agents using SOP state-machine logic."
+  default_prompt: "Use this skill to design a reusable SOP-style workflow agent from business materials."
